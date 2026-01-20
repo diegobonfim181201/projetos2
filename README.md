@@ -1,7 +1,4 @@
--- ===========================================
--- SISTEMA BANCÁRIO DIGITAL ENTERPRISE
--- ESTILO NUBANK / INTER / C6 / REVOLUT
--- ===========================================
+
 
 CREATE DATABASE IF NOT EXISTS digital_bank;
 USE digital_bank;
